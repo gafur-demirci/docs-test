@@ -5,4 +5,4 @@ hide_title: 'true'
 slug: /
 ---
 
-<p>Plateau Studio Documentation English</p>
+<p>Plateau Studio Documentation TR</p>
