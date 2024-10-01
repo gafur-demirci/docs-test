@@ -14,5 +14,9 @@
   "sidebar.tutorialSidebar.category.Tutorial - Extras": {
     "message": "Tutorial - Extras",
     "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics.Create-a-Page": {
+    "message": "Yeni Sayfa Oluştur",
+    "description": "Yeni bir sayfa oluştur"
   }
 }
